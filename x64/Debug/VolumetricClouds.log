@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\lewin\Documents\OpenGL Learn\VolumetricClouds\mesh.h(67,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\lewin\Documents\OpenGL Learn\VolumetricClouds\model.h(89,13): warning C4552: '-': result of expression not used
+C:\Users\lewin\Documents\OpenGL Learn\VolumetricClouds\camera.h(102,9): warning C4552: '-': result of expression not used
+C:\Users\lewin\Documents\OpenGL Learn\VolumetricClouds\Main.cpp(270,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  VolumetricClouds.vcxproj -> C:\Users\lewin\Documents\OpenGL Learn\VolumetricClouds\x64\Debug\VolumetricClouds.exe
